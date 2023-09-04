@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+WeatherApp-Class: WeatherApp
+Main-Class: HomeScreen
+
